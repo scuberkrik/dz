@@ -1,6 +1,6 @@
-a = ('Hello')
-b = (' World')
-print(a+b)
+a = 'Hello'
+b = 'World'
+print(f'{a} {b}')
 
 
 
